@@ -22,7 +22,7 @@ I'm a Full Stack JavaScript Developer with over 9 years of experience crafting e
 ## 📬 Let's Connect
 
 - **LinkedIn**: [linkedin.com/in/heinrichb](https://www.linkedin.com/in/heinrichb)
-- **GitHub**: [github.com/zpz5HAU-tgc3fgw2xwr](https://github.com/heinrichb)
+- **GitHub**: [github.com/heinrichb](https://github.com/heinrichb)
 
 <!-- Portfolio section commented out until website development is completed -->
 <!-- - **Portfolio**: [your-portfolio-site.com](#) -->
