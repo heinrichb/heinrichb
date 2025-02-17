@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Brennen Heinrich
 
-I'm a Full Stack JavaScript Developer with over 9 years of experience crafting efficient, user-friendly web applications. I specialize in modern frameworks like Vue.js and React, alongside backend development with Node.js and MongoDB. Passionate about solving complex problems, continuous learning, and creating seamless digital experiences, I thrive on delivering impactful solutions.
+I'm a Full Stack JavaScript Developer with over 9 years of experience crafting efficient, user-friendly web applications. I specialize in modern frameworks like Vue.js and AngularJS, alongside backend development with Node.js and MongoDB. Passionate about solving complex problems, continuous learning, and creating seamless digital experiences, I thrive on delivering impactful solutions.
 
 ## 🛠️ Skills
 
-- **Frontend**: Vue.js, React, AngularJS, SASS, CSS3, HTML5
+- **Frontend**: Vue.js, AngularJS, React, Next.js, Tailwind CSS, SASS, CSS3, HTML5
 - **Backend**: Node.js, Express.js, MongoDB, RESTful APIs
 - **Testing**: Vitest, Unit Testing
 - **Tools & Platforms**: Docker, Git, Vite
@@ -16,6 +16,7 @@ I'm a Full Stack JavaScript Developer with over 9 years of experience crafting e
 
 ## 📌 Key Projects
 
+- **[Scrapey CLI](https://github.com/heinrichb/scrapey-cli)**: Developed a lightweight, modular command-line tool in Go for web crawling and scraping. Scrapey CLI enables users to collect and parse HTML data based on customizable configuration files or command-line flags, with plans to support multiple storage options such as JSON, XML, and various databases.
 - **[Boot.dev Pokedex CLI](https://github.com/heinrichb/bootdotdev_pokedex)**: Built a command-line Pokédex application in TypeScript, emphasizing unit testing with Vitest and integration with RESTful APIs.
 - **[Boot.dev Web Crawler (Go)](https://github.com/heinrichb/bootdotdev_web-crawler-go)**: Created a high-performance web crawler in Go to parse and analyze large datasets efficiently.
 
@@ -23,6 +24,4 @@ I'm a Full Stack JavaScript Developer with over 9 years of experience crafting e
 
 - **LinkedIn**: [linkedin.com/in/heinrichb](https://www.linkedin.com/in/heinrichb)
 - **GitHub**: [github.com/heinrichb](https://github.com/heinrichb)
-
-<!-- Portfolio section commented out until website development is completed -->
-<!-- - **Portfolio**: [your-portfolio-site.com](#) -->
+- **Portfolio**: [bheinri.ch](https://bheinri.ch)
