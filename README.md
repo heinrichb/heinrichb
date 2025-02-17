@@ -16,9 +16,9 @@ I'm a Full Stack JavaScript Developer with over 9 years of experience crafting e
 
 ## 📌 Key Projects
 
-- **[Scrapey CLI](https://github.com/heinrichb/scrapey-cli)**: Developed a lightweight, modular command-line tool in Go for web crawling and scraping. Scrapey CLI enables users to collect and parse HTML data based on customizable configuration files or command-line flags, with plans to support multiple storage options such as JSON, XML, and various databases.
-- **[Boot.dev Pokedex CLI](https://github.com/heinrichb/bootdotdev_pokedex)**: Built a command-line Pokédex application in TypeScript, emphasizing unit testing with Vitest and integration with RESTful APIs.
-- **[Boot.dev Web Crawler (Go)](https://github.com/heinrichb/bootdotdev_web-crawler-go)**: Created a high-performance web crawler in Go to parse and analyze large datasets efficiently.
+- **[Scrapey CLI](https://github.com/heinrichb/scrapey-cli)**: A lightweight, modular command-line tool in Go for web crawling and scraping, allowing users to collect and parse HTML data based on customizable configurations.
+- **[Boot.dev Pokedex CLI](https://github.com/heinrichb/bootdotdev_pokedex)**: A TypeScript-based command-line interface for managing a Pokédex, integrating with external APIs to fetch dynamic Pokémon data.
+- **[Boot.dev Web Crawler (Go)](https://github.com/heinrichb/bootdotdev_web-crawler-go)**: A CLI-based web crawler written in Go, designed to explore concurrency and efficient link traversal.
 
 ## 📬 Let's Connect
 
