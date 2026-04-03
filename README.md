@@ -30,12 +30,6 @@ I thrive on **solving complex challenges**, bridging the gap between **front-end
 - **[Scrapey CLI](https://github.com/heinrichb/scrapey-cli)** *(Go, Web Scraping)*:  
   A **modular CLI tool** for web crawling, parsing, and extracting HTML data with customizable configurations.
 
-- **[Boot.dev Pokedex CLI](https://github.com/heinrichb/bootdotdev_pokedex)** *(TypeScript, API Integration)*:  
-  A **TypeScript-based CLI** for managing a Pokédex, fetching real-time Pokémon data via API.
-
-- **[Boot.dev Web Crawler (Go)](https://github.com/heinrichb/bootdotdev_web-crawler-go)** *(Go, Concurrency)*:  
-  A **high-performance web crawler** exploring concurrency and efficient link traversal.
-
 - **Project OPAL – Pokémon Search & Battle Companion** *(PHP, JavaScript, Python, MySQL, SCSS)*:  
   A **mobile-optimized Pokémon battle assistant** that allowed users to search for movesets, weaknesses, and team matchups in real time.  
   - Built with a **PHP backend** and a **Python web scraper** for structured data retrieval  
