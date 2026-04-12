@@ -1,42 +1,44 @@
-# 👋 Hi, I'm Brennen Heinrich
+# Hi, I'm Brennen Heinrich
 
-I'm a **Full-Stack JavaScript/TypeScript Developer** with 9+ years of experience building **scalable, high-performance web applications**. Specializing in **Vue.js, Angular, and Node.js**, I create **reusable UI components, optimize performance, and streamline workflows** to deliver seamless user experiences.
+Full-stack developer with 10+ years of experience across web, systems, and DevOps. Currently building avionics ground support tooling at Astronautics Corporation of America. Most comfortable in TypeScript, Go, and Vue, but I pick up whatever the problem needs.
 
-I thrive on **solving complex challenges**, bridging the gap between **front-end and back-end**, and continuously learning new technologies to improve development efficiency.
+## Skills
 
-## 🛠️ Skills
+- **Languages**: TypeScript, JavaScript, Go, PHP, Python, HTML5, CSS/SCSS
+- **Frontend**: Vue.js, Nuxt, Angular, React, Next.js, Tailwind CSS
+- **Backend**: Node.js, Nitro, Express, RESTful APIs, MySQL, PostgreSQL, Turso/SQLite
+- **Infrastructure**: Docker, CI/CD (GitHub Actions, Gitea Actions, Vercel), Linux, Nginx
+- **Testing**: Vitest, Playwright, Go testing, race detection, coverage tooling
 
-- **Frontend**: Vue.js, Angular, React, Next.js, Tailwind CSS, SCSS, TypeScript, JavaScript, HTML5
-- **Backend**: Node.js, Express.js, PHP, RESTful APIs, MySQL
-- **Testing & Optimization**: Vitest, Performance Tuning, Unit Testing
-- **DevOps & Tools**: Docker, CI/CD, Git, Linux, Vite
+## Experience
 
-## 🚀 Professional Experience
+- **[Astronautics Corporation of America](https://www.astronautics.com/)** (2025-Present):
+  Software Engineer on the ground tools team, building a React application for programming the Flight Data Interface Management Unit (FDIMU).
 
-- **[Ingo Money](https://ingomoney.com/)** (2019–2024):  
-  **Sole UI/UX developer** modernizing internal tools with **Vue.js and TypeScript**, improving employee workflows and reducing development time through **reusable components and performance optimization**.
+- **[Lotus Light](https://www.lotuslight.com/)** (2025-Present):
+  Lead developer migrating a wholesale/retail e-commerce platform from Magento 2 to a custom Nuxt 4 storefront with Turso, Nitro, and Vercel.
 
-- **[1-800 Contacts](https://www.1800contacts.com/)** (2016–2019):  
-  Helped rebuild the company’s **eCommerce platform in Angular**, working across **design, engineering, and marketing teams** to enhance UI/UX and maintain design consistency.
+- **[Ingo Money](https://ingomoney.com/)** (2019-2024):
+  Sole UI/UX developer modernizing internal tools with Vue.js and TypeScript. Built reusable component libraries and optimized performance across employee-facing applications.
 
-- **MaritzCX** (2015–2016):  
-  Contributed to a UI/UX overhaul of the internal platform in Angular 2, shaping its implementation to improve user experience and interface consistency.
+- **[1-800 Contacts](https://www.1800contacts.com/)** (2016-2019):
+  Helped rebuild the eCommerce platform in Angular, working across design, engineering, and marketing teams to ship a consistent, accessible UI.
 
-- **Freelance Web Developer** (2012–Present):  
-  Over a decade of designing and maintaining websites for small-business clients across various industries, focusing on performance, security, SEO, and translating business needs into user-friendly web experiences.
+- **MaritzCX** (2015-2016):
+  Contributed to a UI/UX overhaul of the internal platform in Angular 2.
 
-## 📌 Notable Projects
+- **Freelance** (2012-Present):
+  Designing and maintaining websites for small-business clients across various industries.
 
-- **[Scrapey CLI](https://github.com/heinrichb/scrapey-cli)** *(Go, Web Scraping)*:  
-  A **modular CLI tool** for web crawling, parsing, and extracting HTML data with customizable configurations.
+## Notable Projects
 
-- **Project OPAL – Pokémon Search & Battle Companion** *(PHP, JavaScript, Python, MySQL, SCSS)*:  
-  A **mobile-optimized Pokémon battle assistant** that allowed users to search for movesets, weaknesses, and team matchups in real time.  
-  - Built with a **PHP backend** and a **Python web scraper** for structured data retrieval  
-  - Users could **sign up, save battle teams, and analyze matchups**  
-  - Focused on **fast performance, accessibility, and real-time battle strategy assistance**  
+- **[steamgifts-bot](https://github.com/heinrichb/steamgifts-bot)** *(Go)*:
+  Multi-account giveaway bot for steamgifts.com with smart entry prioritization, auto Steam sync, win notifications, and Docker/Helm/systemd deployment support.
 
-## 📬 Let's Connect
+- **[decky-autoupdate](https://github.com/heinrichb/decky-autoupdate)** *(Python, Decky Loader)*:
+  Steam Deck plugin that eliminates Steam's scheduled update queue by forcing all pending game updates to start immediately. Configurable check intervals for large libraries and LAN cache setups.
+
+## Connect
 
 - **LinkedIn**: [linkedin.com/in/heinrichb](https://www.linkedin.com/in/heinrichb)
 - **GitHub**: [github.com/heinrichb](https://github.com/heinrichb)
